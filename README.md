@@ -1,4 +1,7 @@
-# MPE_Add-ons
+# MPE_Add-ons [Defunct]
+NO LONGER NECESSARY. ALL FILES ARE NOW INCLUDED IN MPE. FOR VISUALS, SEE IO-VISUALS.
+
+
 Adds additional support configs to Minor Planets Expansion by Exo's Lab
 
 The following mods are fully supported (but may see further support):
